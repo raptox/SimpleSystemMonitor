@@ -1,5 +1,7 @@
 # SimpleSystemMonitor
 
+<img width="766" alt="Screenshot 2021-11-06 191837" src="https://user-images.githubusercontent.com/2566164/140619882-7b370f3f-4956-4bdf-9652-3aa6a5cb056e.png">
+
 This little tool is intended to show me the current CPU/GPU temperatures and loads.
 
 A dozen of tools exist already for this simple task, but I needed something small and most importantly, it needed to show me the actual time/date, because this will be running on my 2nd screen.
